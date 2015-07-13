@@ -17,3 +17,6 @@ These are the sourcecode examples for the course, ["Learn JavaScript Software Te
 1. [Lesson 1](#lesson-1)
 
 ## Lesson 1
+
+1. [HTML example code](01-Introduction/HTML-example.html)
+ 
