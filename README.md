@@ -10,3 +10,10 @@ Part of the ["Learn JavaScript with Eric Elliott"](https://ericelliottjs.com) co
 ## What is This?
 
 These are the sourcecode examples for the course, ["Learn JavaScript Software Testing with Sauce Labs"](https://ericelliottjs.com/product/learn-javascript-software-testing-with-sauce-labs/). You'll find every code example here. Please feel free to [ask a question](https://github.com/learn-javascript-courses/software-testing/issues/new?title=[Question]+) if anything here is confusing. Questions are also welcome in the [Learn JavaScript chatroom](https://gitter.im/learn-javascript-courses/javascript-questions).
+
+
+## Contents
+
+1. [Lesson 1](#lesson-1)
+
+## Lesson 1
