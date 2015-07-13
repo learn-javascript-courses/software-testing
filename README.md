@@ -2,6 +2,7 @@
 
 
 # Learn JavaScript Software Testing with Sauce Labs
+[![Join the chat at https://gitter.im/learn-javascript-courses/javascript-questions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/learn-javascript-courses/javascript-questions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Part of the ["Learn JavaScript with Eric Elliott"](https://ericelliottjs.com) course series. Don't just learn to code. Learn how to change the world.
 
